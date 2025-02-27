@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">AndroidPlaylist</string>
+
+    <string name="playlist_viewer_title">My Playlists</string>
+
+    <string name="song_viewer_title">My Songs</string>
+
+    <string name="extend_button_content_description">Extend button</string>
+
+    <string name="song_adder_title">Add a Song</string>
+    <string name="song_adder_name_field">Song name</string>
+    <string name="song_adder_author_field">Song author</string>
+    <string name="song_adder_duration_field">Song duration in seconds</string>
+    <string name="song_adder_button_text">Add Song</string>
+    <string name="song_adder_success_message">Successfully added to song list</string>
+    <string name="song_adder_empty_name_message">Empty song name</string>
+    <string name="song_adder_empty_artist_message">Empty artist name</string>
+    <string name="song_adder_empty_duration_message">Empty song duration</string>
+    <string name="song_adder_number_format_message">Invalid song duration format (expected a number)</string>
+    <string name="song_adder_already_exist_message">This song already exists :</string>
+
+    <string name="playlist_adder_title">Add an empty playlist</string>
+    <string name="playlist_song_adder_title">Add a song to a playlist</string>
+    <string name="playlist_adder_name_field">Playlist name</string>
+    <string name="playlist_adder_button_text">Add playlist</string>
+    <string name="playlist_adder_already_exist_message">This playlist already exists :</string>
+    <string name="playlist_song_adder_button_text">Add song to playlist</string>
+    <string name="playlist_adder_success_message">Successfully added to playlist list</string>
+    <string name="playlist_adder_empty_name_message">Empty playlist name</string>
+    <string name="playlist_adder_undefined_playlist_error">There is no such playlist : </string>
+    <string name="playlist_adder_undefined_song_error">There is no such song : </string>
+    <string name="playlist_song_adder_success_message">Song successfully added to playlist</string>
+
+</resources>
